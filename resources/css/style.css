@@ -1,0 +1,49 @@
+
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.flat_iron{
+  background-image: url("/Users/michaelbabboni/broadway_design/resources/images/the-flatiron-building.png");
+  color: white;
+}
+.flat_iron h1 {
+  font-size: 70px;
+  font-weight: bold;
+
+}
+.flat_iron a {
+  color: white;
+  font-size: 18px;
+}
+
+.flat_iron h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.Process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.Process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.Process p {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+
+}
+.footer a {
+  color: white;
+}
